@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucasJohn625
-- 👀 I’m interested in creating games and mobile apllications.
-- 🌱 I’m currently learning c# and working in unity.
-- 💞️ I’m looking to collaborate on mobile gaming applications.
+-  I’m interested in creating applcations in Mern
+-  Recently finished studying at the Coding Dojo Bootcamp
+-  I’m looking to collaborate with others and continue learning.
 
 
 <!---
